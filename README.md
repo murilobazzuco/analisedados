@@ -1,5 +1,5 @@
-Análise da Campanha de Marketing do Ifood
-Problema de Negócio
+# Análise da Campanha de Marketing do Ifood
+## Problema de Negócio
 iFood é o principal aplicativo de entrega de comida no Brasil, presente em mais de mil cidades.
 
 Manter um alto engajamento do cliente é fundamental para o crescimento e a consolidação da posição da empresa como líder de mercado. Analistas de dados que trabalham na equipe de dados são constantemente desafiados a fornecer insights e valor para a empresa por meio de projetos.
@@ -8,16 +8,16 @@ Este caso pretende simular isso. Neste caso, você é apresentado a um conjunto 
 
 Como analista de dados, o seu objetivo é: Fazer uma análise descritiva dos clientes com base nos comportamentos, a fim de encontrar características que permitam à empresa maximizar o lucro da próxima campanha de marketing.
 
-Contexto
+## Contexto
 O time de Marketing do ifood faz campanhas recorrente para aumentar o faturamento da empresa. Porém existe uma necessidade de entender as ações que trouxeram resultados positivos e negativos para aprender e replicar nas futuras campanhas com o objetivo de aumentar o faturamento.
 
 Nesse contexto, o Analista de Dados tem um papel fundamental para coletar, analisar e gerar insights para o time de negócio, a fim de ajudá-lo a aumentar o faturamento nas próximas campanhas.
 
-Premissas da análise
+## Premissas da análise
 A campanha analisar aconteceu entre 15 de Janeiro de 2025 até 30 de Janeiro de 2025.
 Todos os produtos comprados com cupom foram removidos.
 A análise considerou somente os produtos do catálogo da campanha.
-Estratégia da solução
+## Estratégia da solução
 O método Fato-Dimensão foi usado para desenvolver a análise de dados da campanha de Marketing.
 
 Passo 1: Resumir o contexto em uma pergunta aberta
@@ -98,7 +98,7 @@ Hipótese 4: Clientes com crianças em casa compra mais pelo Ifood. Hipótese 4
 
 Hipótese 5: Clientes que compram mais carne também compram mais vinho. Hipótese 5
 
-Insights da análise
+## Insights da análise
 Visão Geral da Campanha de Marketing
 Visão Geral
 
@@ -111,7 +111,7 @@ Visão Geral
 Conclusão: Visão Produto
 Visão Produto
 
-Resultados
+## Resultados
 Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
 
 O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
@@ -121,7 +121,7 @@ Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas
 Visualize a Análise Completa
 Acess o Link: https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5
 
-Próximos passos
+## Próximos passos
 Explorar mais características dos clientes
 Automatizar a coleta e a análise para acompanhamento.
 Agrupar os clientes em grupos de maior e menor faturamento para entender se há similiridades ou não.
