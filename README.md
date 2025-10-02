@@ -97,6 +97,7 @@ Hipótese 3: Clientes solteiros abaixo dos 30 anos gastam mais com produtos do I
 Hipótese 4: Clientes com crianças em casa compra mais pelo Ifood. Hipótese 4
 
 Hipótese 5: Clientes que compram mais carne também compram mais vinho. Hipótese 5
+![sss](Captura de tela 2025-10-02 100417.png)
 
 ## Insights da análise
 Visão Geral da Campanha de Marketing
